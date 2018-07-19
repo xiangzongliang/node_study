@@ -1,0 +1,8 @@
+let elem = {
+	elem:function (el,attr) {
+		let creatreDom = '<'+el+'></'+el+'>'
+		return creatreDom
+	}
+}
+
+module.exports = elem
