@@ -3,5 +3,5 @@ let elem = require('./modules/elem');
 
 
 var sun = add(3,8),
-	dom = elem.elem('div')
+	dom = elem.elem('a')
 console.log(sun,dom)
