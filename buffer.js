@@ -7,6 +7,8 @@
 // Buffer.from(string[, encoding])： 返回一个被 string 的值初始化的新的 Buffer 实例
 
 
+
+
 const buf1 = Buffer.from([97,98,99]);
 
 
