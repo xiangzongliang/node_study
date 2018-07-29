@@ -1,0 +1,23 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "v8": "node --trace_gc v8.js",
+    "v8_prof": "node --prof v8.js",
+    "outofmemory":"node outofmemory.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiangzongliang/node_study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiangzongliang/node_study/issues"
+  },
+  "homepage": "https://github.com/xiangzongliang/node_study#readme"
+}
